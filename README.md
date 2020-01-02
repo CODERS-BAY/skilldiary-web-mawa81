@@ -214,6 +214,8 @@ As it is a personal documentation the styling and structure is up to your person
 </table>
 
 ### Links
+
+
 <table>
   <tr>
     <td> 
@@ -240,3 +242,57 @@ If you need the characters, which are already used as special characters in Mark
 ### Using code in Markdown
 Markdown coverts text with four leading spaces into a code block; with GFM you can wrap your code with \`\`\` to create a code block without the leading spaces. Add an optional language identifier and your code will get syntax highlighting.
 
+
+
+![CodeSnippet](/Codesnippet.png)
+
+### Tables
+You can create tables by assembling a list of words and dividing them with hyphens \- (for the first row), and then separating each column with a pipe \| 
+<table>
+  <tr>
+    <td> 
+      Markdown Syntax 
+    </td>
+    <td>
+      How it looks
+    </td>
+  </tr>
+   <tr>
+    <td> 
+      First Header | Second Header<br/>
+      ------------ | ------------- <br/>
+      Content cell 1 | Content cell 2 <br/>
+      Content column 1 | Content column 2
+    </td>
+    <td>
+      <table>
+        <thead>
+            <td> 
+               First Header
+            </td>
+            <td>
+              Second Header
+            </td>
+       </thead>
+       <tbody>
+         <tr>
+          <td> 
+            Content cell 1
+          </td>
+          <td>
+            Content cell 2
+          </td>
+        </tr>
+         <tr>
+          <td> 
+            Content column 1
+          </td>
+          <td>
+            Content column 2
+          </td>
+        </tr>
+       </tbody>  
+      </table>
+    </td>
+  </tr>
+</table>
