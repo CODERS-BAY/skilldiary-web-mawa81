@@ -169,3 +169,70 @@ As it is a personal documentation the styling and structure is up to your person
 
 #### Ordered
 
+<table>
+  <tr>
+    <td> 
+      Markdown Syntax 
+    </td>
+    <td>
+      How it looks
+    </td>
+  </tr>
+   <tr>
+    <td> 
+      1. Item 1 <br/>
+      2. Item 2 <br/>
+    </td>
+    <td>
+        <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+      </ol>
+    </td>
+  </tr>
+</table>
+
+### Images
+<table>
+  <tr>
+    <td> 
+      Markdown Syntax 
+    </td>
+    <td>
+      How it looks
+    </td>
+  </tr>
+   <tr>
+    <td> 
+      ![GitHub Logo](/images/logo.png)<br/>
+      Format: ![Alt Text](url)
+    </td>
+    <td>
+      Displays the image in folder images which is called logo.png
+    </td>
+  </tr>
+</table>
+
+### Links
+<table>
+  <tr>
+    <td> 
+      Markdown Syntax 
+    </td>
+    <td>
+      How it looks
+    </td>
+  </tr>
+   <tr>
+    <td> 
+      ![GitHub](https://www.github.com)<br/>
+      Format: ![Alt Text](url)
+    </td>
+    <td>
+      <a href = "https://www.github.com">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+### Backslash Escape
+If you need the characters, which are already used as special characters in Markdown you can use them if you put an \\ before the character. For example you have to write ```\*``` to use a \*
