@@ -79,7 +79,62 @@ As it is a personal documentation the styling and structure is up to your person
   </tr>
 </table>
 
+### Headlines
+#### Emphasis
+##### Italic
+<table>
+  <tr>
+    <td> 
+      Markdown Syntax 
+    </td>
+    <td>
+      How it looks
+    </td>
+  </tr>
+   <tr>
+    <td> 
+      *This text will be italic*
+    </td>
+    <td>
+      <i> This text will be italic </i>
+    </td>
+  </tr>
+  <tr>
+    <td> 
+       _This text will be italic too_
+    </td>
+    <td>
+      <i> This text will be italic too</i>
+    </td>
+  </tr>
+</table>
 
-
+##### Bold
+<table>
+  <tr>
+    <td> 
+      Markdown Syntax 
+    </td>
+    <td>
+      How it looks
+    </td>
+  </tr>
+   <tr>
+    <td> 
+      *This text will be bold*
+    </td>
+    <td>
+      <b> This text will be bold </b>
+    </td>
+  </tr>
+  <tr>
+    <td> 
+       __This text will be bold too__
+    </td>
+    <td>
+      <b> This text will be bold too</b>
+    </td>
+  </tr>
+</table>
 
 
