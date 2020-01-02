@@ -136,4 +136,36 @@ As it is a personal documentation the styling and structure is up to your person
   </tr>
 </table>
 
+### Lists
+#### Unordered
+<table>
+  <tr>
+    <td> 
+      Markdown Syntax 
+    </td>
+    <td>
+      How it looks
+    </td>
+  </tr>
+   <tr>
+    <td> 
+      * Item 1 <br/>
+      * Item 2 <br/>
+      TAB * Item 2a <br/>
+      TAB * Item 2b <br/>
+    </td>
+    <td>
+      <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <ul>
+          <li>Item 2a</li>
+          <li>Item 2b</li>
+        </ul>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+#### Ordered
 
