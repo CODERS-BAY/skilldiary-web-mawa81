@@ -79,9 +79,8 @@ As it is a personal documentation the styling and structure is up to your person
   </tr>
 </table>
 
-### Headlines
-#### Emphasis
-##### Italic
+### Emphasis
+#### Italic
 <table>
   <tr>
     <td> 
@@ -109,7 +108,7 @@ As it is a personal documentation the styling and structure is up to your person
   </tr>
 </table>
 
-##### Bold
+#### Bold
 <table>
   <tr>
     <td> 
