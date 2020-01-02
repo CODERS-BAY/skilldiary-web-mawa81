@@ -17,5 +17,11 @@ I'm going to give you all reviews in the form of issues every week, where I'm go
 
 As it is a personal documentation the styling and structure is up to your personal preferences.
 
-## Github Cheatsheet
+## Markdown Cheatsheet
+### Headlines
+#### H1
+```
+# TEXT 
+```
+# This is an H1
 
