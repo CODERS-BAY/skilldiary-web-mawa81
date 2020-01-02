@@ -236,3 +236,7 @@ As it is a personal documentation the styling and structure is up to your person
 
 ### Backslash Escape
 If you need the characters, which are already used as special characters in Markdown you can use them if you put an \\ before the character. For example you have to write ```\*``` to use a \*
+
+### Using code in Markdown
+Markdown coverts text with four leading spaces into a code block; with GFM you can wrap your code with \`\`\` to create a code block without the leading spaces. Add an optional language identifier and your code will get syntax highlighting.
+
