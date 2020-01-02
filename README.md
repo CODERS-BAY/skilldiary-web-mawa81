@@ -19,9 +19,67 @@ As it is a personal documentation the styling and structure is up to your person
 
 ## Markdown Cheatsheet
 ### Headlines
-#### H1
-```
-# TEXT 
-```
-# This is an H1
+
+<table>
+  <tr>
+    <td> 
+      Markdown Syntax 
+    </td>
+    <td>
+      How it looks
+    </td>
+  </tr>
+   <tr>
+    <td> 
+      # TEXT
+    </td>
+    <td>
+      <h1> This is a H1 </h1>
+    </td>
+  </tr>
+  <tr>
+    <td> 
+      ## TEXT
+    </td>
+    <td>
+      <h2> This is a H2 </h2>
+    </td>
+  </tr>
+  <tr>
+    <td> 
+      ### TEXT
+    </td>
+    <td>
+      <h3> This is a H3 </h3>
+    </td>
+  </tr>
+  <tr>
+    <td> 
+      #### TEXT
+    </td>
+    <td>
+      <h4> This is an H4 </h4>
+    </td>
+  </tr>
+  <tr>
+    <td> 
+      ##### TEXT
+    </td>
+    <td>
+      <h5> This is an H5 </h5>
+    </td>
+  </tr>
+  <tr>
+    <td> 
+      ###### TEXT
+    </td>
+    <td>
+      <h6> This is an H6 </h6>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
